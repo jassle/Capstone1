@@ -1,0 +1,14 @@
+c:\users\jason leonard\source\repos\Capstone1\Capstone1\obj\Debug\Capstone1.csprojResolveAssemblyReference.cache
+c:\users\jason leonard\source\repos\Capstone1\Capstone1\obj\Debug\Capstone1.csproj.CoreCompileInputs.cache
+c:\users\jason leonard\source\repos\Capstone1\Capstone1\bin\Debug\Capstone1.exe.config
+c:\users\jason leonard\source\repos\Capstone1\Capstone1\bin\Debug\Capstone1.exe
+c:\users\jason leonard\source\repos\Capstone1\Capstone1\bin\Debug\Capstone1.pdb
+c:\users\jason leonard\source\repos\Capstone1\Capstone1\obj\Debug\Capstone1.exe
+c:\users\jason leonard\source\repos\Capstone1\Capstone1\obj\Debug\Capstone1.pdb
+C:\Users\Jason Leonard\Documents\Labs\Capstone1\Capstone1\bin\Debug\Capstone1.exe.config
+C:\Users\Jason Leonard\Documents\Labs\Capstone1\Capstone1\bin\Debug\Capstone1.exe
+C:\Users\Jason Leonard\Documents\Labs\Capstone1\Capstone1\bin\Debug\Capstone1.pdb
+C:\Users\Jason Leonard\Documents\Labs\Capstone1\Capstone1\obj\Debug\Capstone1.csprojResolveAssemblyReference.cache
+C:\Users\Jason Leonard\Documents\Labs\Capstone1\Capstone1\obj\Debug\Capstone1.csproj.CoreCompileInputs.cache
+C:\Users\Jason Leonard\Documents\Labs\Capstone1\Capstone1\obj\Debug\Capstone1.exe
+C:\Users\Jason Leonard\Documents\Labs\Capstone1\Capstone1\obj\Debug\Capstone1.pdb
